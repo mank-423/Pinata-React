@@ -19,8 +19,8 @@ https://dev.to/fidalmathew/send-files-to-ipfs-using-pinata-api-in-reactjs-3c3
   import FormData from "form-data"
  
 <br>
-## Two files in components
- 
+<h3>Two files in components</h3>
+ <br>
 - both could be used to pin data to Pinata
 <br>
 - Doc.jsx:Reference from official documentation
