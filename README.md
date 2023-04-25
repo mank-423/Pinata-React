@@ -8,6 +8,16 @@ https://dev.to/fidalmathew/send-files-to-ipfs-using-pinata-api-in-reactjs-3c3
 <br>
 - Blog used for reference
 
+- A simple UI component
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/96490105/234364699-5538e2fa-65fe-4f5f-b8ec-ebf850471ec0.png">
+
+- Alert showing the file is pinned
+<img width="474" alt="image" src="https://user-images.githubusercontent.com/96490105/234364762-0879ddbd-7e4a-461a-b4d7-ed23eb3f9691.png">
+
+- Showing the file in Pinata pin manager
+<img width="715" alt="image" src="https://user-images.githubusercontent.com/96490105/234364884-4b022bc3-1d13-44f6-bf84-16204ad0186a.png">
+
+
 - Some errors which I had to deal with:
 <br>
 - npm install form-data axios
