@@ -12,3 +12,7 @@ Some errors which I had to deal with:
 2. Need to import the modules helped me in React as ES6 convention
   import axios from "axios"
   import FormData from "form-data"
+ 
+There are two components and both could be used to pin data to Pinata
+Doc.jsx - Reference from official documentation
+File.jsx - Reference taken from the blog
