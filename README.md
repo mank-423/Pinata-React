@@ -1,4 +1,5 @@
-#Pinata IPFS with React
+# Pinata IPFS with React
+<br>
 Using pinata end points for testing the pining of files.
 
 https://dev.to/fidalmathew/send-files-to-ipfs-using-pinata-api-in-reactjs-3c3
