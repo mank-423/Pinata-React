@@ -19,7 +19,9 @@ Some errors which I had to deal with:
   import FormData from "form-data"
  
 <br>
-# There are two components and both could be used to pin data to Pinata
+# Two files in components
+ 
+ *both could be used to pin data to Pinata
 <br>
 Doc.jsx - Reference from official documentation
 <br>
