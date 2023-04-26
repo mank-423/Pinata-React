@@ -6,6 +6,8 @@
 
 https://dev.to/fidalmathew/send-files-to-ipfs-using-pinata-api-in-reactjs-3c3
 <br>
+https://docs.pinata.cloud/gateways/retrieving-content
+<br>
 - Blog used for reference
 
 - A simple UI component
